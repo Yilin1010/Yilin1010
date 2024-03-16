@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Personal Website</title>
+<style>
+  .container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    text-align: center;
+  }
+  .column-header {
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  .box {
+    border: 2px solid black;
+    padding: 10px;
+    margin-bottom: 20px; /* Spacing between rows */
+  }
+  .image-container {
+    width: 100%;
+    display: flex; /* This will align images side by side */
+    justify-content: space-between; /* This will provide space between the images */
+    margin-bottom: 10px;
+  }
+  .image-placeholder {
+    background-color: #e4e4e4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px; /* Fixed height for all images */
+    flex-grow: 1; /* Allows the images to grow and fill the container */
+  }
+  .image-placeholder:not(:last-child) {
+    margin-right: 10px; /* Space between images in the same row */
+  }
+  h1 {
+    text-align: center;
+  }
+</style>
+</head>
+<body>
+
+<div class="container">
+  <!-- Research Column -->
+  <div>
+    <div class="column-header">Research</div>
+    <div class="box">
+      <!-- Data Deletion section with two images -->
+      <div class="image-container">
+        <div class="image-placeholder">
+           <img src="d.gif" alt="gif" style="auto;height:auto;">
+        </div>
+        <div class="image-placeholder">
+          <img src="r.gif" alt="gif" style="auto;height:auto;">
+        </div>
+      </div>
+      <p>Data Deletion</p>
+    </div>
+  </div>
+
+  <!-- Projects Column -->
+  <div>
+    <div class="column-header">Projects</div>
+    <div class="box">
+      <div class="image-placeholder">Image placeholder</div>
+      <p>Computer Vision</p>
+    </div>
+    <div class="box">
+      <div class="image-placeholder">Image placeholder</div>
+      <p>Distributed System</p>
+    </div>
+  </div>
+
+  <!-- Design Column -->
+  <div>
+    <div class="column-header">Design</div>
+    <div class="box">
+      <div class="image-placeholder">Image placeholder</div>
+      <p>User Story</p>
+    </div>
+    <div class="box">
+      <div class="image-placeholder">Image placeholder</div>
+      <p>Prototype</p>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
