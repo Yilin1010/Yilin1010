@@ -9,7 +9,7 @@ Please feel free to contact me!😊
 
 
 ### My Projects
-- [pruning ViT](https://github.com/Yilin1010/pruning_ViT): A framwork of pruning and evaluate the efficiency of Vision Transformer.
+- [effcient ML](https://github.com/Yilin1010/pruning_ViT): A framwork of pruning and evaluate the efficiency of Vision Transformer.
 
 - [real-time computer vision system (OpenCV, C++, PyTorch)](https://github.com/Yilin1010/Yilin1010-Pattern-Recognition-Computer-Vision-Fall-2023): Object Recognition system, AR system, video filters.
 
