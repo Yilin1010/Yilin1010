@@ -1,7 +1,7 @@
 Hi there 👋
 
 ### About Me
-My name is [Yilin (yee-lin) Tang](https://yilin1010.github.io/Personal_Website/). I am a graduate computer science student at Northesatern University, currently interested in preserving and privacy-preserving AI and Interpretability of AI.
+My name is [Yilin (yee-lin) Tang](https://yilin1010.github.io/Personal_Website/). I am a graduate computer science student at Northesatern University, currently interested in preserving and privacy-preserving AI and Interpretability of AI, My current interest is applying sparse auto-encoder into practical AI safety problems, like Machine Unlearning.
 
 I am planning to become Machine Learning engineer after graduation in 2025. 
 
