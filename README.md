@@ -1,7 +1,7 @@
 Hi there 👋
 
 ### About Me
-My name is [Yilin (yee-lin) Tang](https://yilin1010.github.io/Personal_Website/). I am a graduate computer science student at Northeastern University, currently interested in Trustworthy and privacy-preserving AI and Interpretability of AI.
+My name is [Yilin (yee-lin) Tang](https://yilin1010.github.io/Personal_Website/). I am a graduate computer science student at Northeastern University, currently interested in Trustworthy and privacy-preserving AI and Mechanistic Interpretability for AI.
 
 I am planning to become Machine Learning engineer after graduation in 2025. 
 
