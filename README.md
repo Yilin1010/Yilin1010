@@ -11,7 +11,7 @@ Please feel free to contact me!😊
 
 ### My Projects
 
-- [Yilin1010/Machine_Unlearning_Algorithms: Code for Machine Unlearning Pipelines and Unlearning Metric.](https://github.com/Yilin1010/Machine_Unlearning_Algorithms) [Slide](https://github.com/Yilin1010/Machine_Unlearning_Algorithms/blob/master/slides.ipynb)
+- [Yilin1010/Machine_Unlearning_Algorithms: Code for Machine Unlearning Pipelines and Unlearning Metric.](https://github.com/Yilin1010/Machine_Unlearning_Algorithms) [[Slide]](https://github.com/Yilin1010/Machine_Unlearning_Algorithms/blob/master/slides.ipynb)
 
 - [Yilin1010/Machine_Unlearning_Algorithms: Code for Machine Unlearning Pipelines and Unlearning Metric.](https://github.com/Yilin1010/Machine_Unlearning_Algorithms)
 
