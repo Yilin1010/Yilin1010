@@ -11,7 +11,7 @@ Please feel free to contact me!😊
 
 ### My Projects
 
-- [Selective-Gradient-Unlearning-SGU](https://github.com/Yilin1010/Selective-Gradient-Unlearning-SGU) [[Slide]](https://github.com/Yilin1010/Machine_Unlearning_Algorithms/blob/master/slides.ipynb): A simple and effective machine unlearning approach.
+- [Selective-Gradient-Unlearning-SGU](https://github.com/Yilin1010/Selective-Gradient-Unlearning-SGU) [[Slide]](https://github.com/Yilin1010/Machine_Unlearning_Algorithms/blob/master/slides_En.ipynb): A simple and effective machine unlearning approach.
 
 - [Machine_Unlearning_Algorithms](https://github.com/Yilin1010/Machine_Unlearning_Algorithms): Code for Machine Unlearning Pipelines and Unlearning Metric.
 
