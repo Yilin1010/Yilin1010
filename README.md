@@ -1,12 +1,11 @@
 Hi there 👋
 
 ### About Me
-My name is [Yilin (yee-lin) Tang](https://yilin1010.github.io). I am a graduate computer science student at Northeastern University, currently interested in AI Safety and Mechanistic Interpretability for LLM.
+My name is [Yilin (yee-lin) Tang](https://yilin1010.github.io). I am a graduate computer science student at Northeastern University, currently working on AI Safety and Agent Simulation for LLM.
 
-I am planning to become Machine Learning engineer after graduation in 2025. 
+I am planning to become a raesearch engineer after graduation in 2026. 
 
 Please feel free to contact me!😊
-
 
 
 ### My Projects
@@ -18,8 +17,6 @@ Please feel free to contact me!😊
 - [effcient ML](https://github.com/Yilin1010/efficient_ML): A framwork of pruning and evaluate the efficiency of Vision Transformer.
 
 - [real-time computer vision system (OpenCV, C++, PyTorch)](https://github.com/Yilin1010/Yilin1010-Pattern-Recognition-Computer-Vision-Fall-2023): Object Recognition system, AR system, video filters.
-
-
 
 
 
