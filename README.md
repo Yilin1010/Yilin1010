@@ -10,6 +10,10 @@ Please feel free to contact me!😊
 
 ### My Projects
 
+- [honesty vs. obfuscation under a deception probe](https://github.com/Yilin1010/honesty-vs-obfuscation-probe-rl): reinforcement-learning
+  (GRPO) training of Llama-3.3-70B against a white-box deception probe, using probe-free and ground-truth checks to tell genuine honesty from
+  probe-evasion.
+
 - [deception-probe](https://github.com/Yilin1010/deception-probe): Reproducing Apollo Research's linear deception probe on Llama-3.3-70B and DeceptionBench.
 
 - [Selective-Gradient-Unlearning-SGU](https://github.com/Yilin1010/Selective-Gradient-Unlearning-SGU) [[Slide]](https://github.com/Yilin1010/Machine_Unlearning_Algorithms/blob/master/slides_En.ipynb): A simple and effective machine unlearning approach.
