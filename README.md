@@ -1,14 +1,15 @@
 Hi there 👋
 
 ### About Me
-My name is [Yilin (yee-lin) Tang](https://yilin1010.github.io). I am a graduate computer science student at Northeastern University, currently working on AI Safety and Agent Simulation for LLM.
+My name is [Yilin (yee-lin) Tang](https://yilin1010.github.io). I am an AI safety researcher finishing my MSCS at Northeastern University (May 2026). I build evaluations for large language models and study how models deceive, both from the outside (agent scenarios) and the inside (probes on a model's internal activations).
 
-I am planning to become a research engineer after graduation in 2026. 
+I am looking for AI safety research engineer and evaluation roles.
 
 Please feel free to contact me!😊
 
 
-### My Projects
+### Recent work
+- [VirtualCrime demo](https://app.t10-world.com): a multi-agent benchmark that puts 8 frontier models (Claude, GPT, Gemini, DeepSeek, Qwen) through 40 adversarial scenarios, scored for success rate and deception propensity. I led the design, built the simulation engine, and ran an 1,181-simulation study across 4 judge models to check the rankings were stable. Lead-author preprint, under revision.
 
 - [honesty vs. obfuscation under a deception probe](https://github.com/Yilin1010/honesty-vs-obfuscation-probe-rl): reinforcement-learning
   (GRPO) training of Llama-3.3-70B against a white-box deception probe, using probe-free and ground-truth checks to tell genuine honesty from
