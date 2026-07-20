@@ -9,7 +9,7 @@ Please feel free to contact me!😊
 
 
 ### Recent work
-- [VirtualCrime demo](https://app.t10-world.com): a multi-agent sandbox criminal capability benchmark that puts 8 frontier models (Claude, GPT, Gemini, DeepSeek, Qwen) through 40 scenarios, scored for success rate and deception propensity. I led the design, built the simulation engine. Lead-author preprint, under revision.
+- [VirtualCrime demo](https://virtualcrime-demo.streamlit.app/): a multi-agent sandbox criminal capability benchmark that puts 8 frontier models (Claude, GPT, Gemini, DeepSeek, Qwen) through 40 scenarios, scored for success rate and deception propensity. I led the design, built the simulation engine. Lead-author preprint, under revision.
 
 - [honesty vs. obfuscation under a deception probe](https://github.com/Yilin1010/honesty-vs-obfuscation-probe-rl): reinforcement-learning
   (GRPO) training of Llama-3.3-70B against a white-box deception probe, using probe-free and ground-truth checks to tell genuine honesty from
