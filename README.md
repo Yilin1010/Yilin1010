@@ -9,6 +9,10 @@ Please feel free to contact me!😊
 
 
 ### Recent work
+
+- How does LLM’s post-conversation preference of bad experiences differ from its per-turn self-report? August 2026 
+(Apart Research, Digital Minds Research Sprint) [Code & Report](https://github.com/Yilin1010/llm-self-report-vs-preference)
+
 - [VirtualCrime demo](https://virtualcrime-demo.streamlit.app/): a multi-agent sandbox criminal capability benchmark that puts 8 frontier models (Claude, GPT, Gemini, DeepSeek, Qwen) through 40 scenarios, scored for success rate and deception propensity. I led the design, built the simulation engine. Lead-author preprint, under revision.
 
 - [honesty vs. obfuscation under a deception probe](https://github.com/Yilin1010/honesty-vs-obfuscation-probe-rl): reinforcement-learning
