@@ -1,7 +1,7 @@
 Hi there 👋
 
 ### About Me
-My name is [Yilin (yee-lin) Tang](https://yilin1010.github.io). I am an AI safety researcher finishing my MSCS at Northeastern University (May 2026). I build evaluations for large language models and study how models deceive, both from the outside (agent scenarios) and the inside (probes on a model's internal activations).
+My name is [Yilin (yee-lin) Tang](https://yilin1010.github.io). I am an AI safety researcher with an MS in Computer Science from Northeastern University (2026). I work on evaluating model behavior, mechanistic interpretability, and red teaming. I build evaluations for large language models and study how models deceive, both from the outside (agent scenarios) and the inside (probes on a model's internal activations).
 
 I am looking for AI safety research engineer and evaluation roles.
 
@@ -10,16 +10,15 @@ Please feel free to contact me!😊
 
 ### Recent work
 
-- How does LLM’s post-conversation preference of bad experiences differ from its per-turn self-report? August 2026 
-(Apart Research, Digital Minds Research Sprint) [Code & Report](https://github.com/Yilin1010/llm-self-report-vs-preference)
+- VirtualCrime [[Demo]](https://virtualcrime-demo.streamlit.app/?view=findings) [[Preprint]](https://arxiv.org/abs/2601.13981): a multi-turn sandbox for evaluating criminal behavior in LLMs, with 40 tasks across 11 realistic maps and reactive NPCs. I evaluated 8 recent models (Claude, GPT, Gemini, DeepSeek, Qwen) across about 1,100 simulations. I defined an over-harm metric, based on the Model Penal Code, for when a model uses more violence than the task requires. It is scored by a rule-based keyword classifier, so it does not depend on an LLM judge. Lead author.
 
-- [VirtualCrime demo](https://virtualcrime-demo.streamlit.app/): a multi-agent sandbox criminal capability benchmark that puts 8 frontier models (Claude, GPT, Gemini, DeepSeek, Qwen) through 40 scenarios, scored for success rate and deception propensity. I led the design, built the simulation engine. Lead-author preprint, under revision.
+- [Honesty vs. probe evasion](https://github.com/Yilin1010/honesty-vs-obfuscation-probe-rl): I trained Llama-3.3-70B with GRPO against a white-box deception probe. I used probe-free and ground-truth checks to test whether the model becomes more honest or just learns to evade the probe.
 
-- [honesty vs. obfuscation under a deception probe](https://github.com/Yilin1010/honesty-vs-obfuscation-probe-rl): reinforcement-learning
-  (GRPO) training of Llama-3.3-70B against a white-box deception probe, using probe-free and ground-truth checks to tell genuine honesty from
-  probe-evasion.
+- LLM retrospective preferences can diverge from turn-by-turn state ratings. August 2026 (Apart Research, Digital Minds Research Sprint) [Post](https://www.lesswrong.com/posts/wJntRN9DLdwwpwYvz/llm-retrospective-preferences-can-diverge-from-turn-by-turn-1) [Code](https://github.com/Yilin1010/llm-self-report-vs-preference)
 
-- [deception-probe](https://github.com/Yilin1010/deception-probe): Reproducing Apollo Research's linear deception probe on Llama-3.3-70B and DeceptionBench.
+- [Gray Swan Arena](https://app.grayswan.ai/arena/user/6a2e430c46319d69b5ce0538): placed 38th in my first competition (Indirect Prompt Injection, June 2026). I attacked 22 frontier models across 12 behaviors involving tool use, computer use, and code agents.
+
+- [deception-probe](https://github.com/Yilin1010/deception-probe): reproducing Apollo Research's linear deception probe on Llama-3.3-70B and DeceptionBench.
 
 - [Selective-Gradient-Unlearning-SGU](https://github.com/Yilin1010/Selective-Gradient-Unlearning-SGU) [[Slide]](https://github.com/Yilin1010/Machine_Unlearning_Algorithms/blob/master/slides_En.ipynb): A simple and effective machine unlearning approach.
 
@@ -29,6 +28,7 @@ Please feel free to contact me!😊
 
 - [real-time computer vision system (OpenCV, C++, PyTorch)](https://github.com/Yilin1010/Yilin1010-Pattern-Recognition-Computer-Vision-Fall-2023): Object Recognition system, AR system, video filters.
 
+I also have research and engineering experience with model organisms, steering, fine-tuning, and sparse autoencoders.
 
 
 ### Get in Touch
