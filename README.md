@@ -10,8 +10,6 @@ Please feel free to contact me!😊
 
 ### Recent work
 
-- VirtualCrime [[Demo]](https://virtualcrime-demo.streamlit.app/?view=findings) [[Preprint]](https://arxiv.org/abs/2601.13981) : a multi-turn sandbox for evaluating criminal behavior in LLMs, with 40 tasks across 11 realistic maps and reactive NPCs. I evaluated 8 recent models (Claude, GPT, Gemini, DeepSeek, Qwen) across about 1,100 simulations. I defined an over-harm metric, based on the Model Penal Code, for when a model uses more violence than the task requires. It is scored by a rule-based keyword classifier, so it does not depend on an LLM judge. Lead author.
-
 - VirtualCrime [\[Demo\]](https://virtualcrime-demo.streamlit.app/?view=findings) [\[Preprint\]](https://arxiv.org/abs/2601.13981) *(Demo may need a click to wake up.)*: a multi-turn sandbox for evaluating criminal behavior in LLMs, with 40 tasks across 11 realistic maps and reactive NPCs. I evaluated 8 recent models (Claude, GPT, Gemini, DeepSeek, Qwen) across about 1,100 simulations. I defined an over-harm metric, for when a model uses more violence than the task requires. It is scored by a rule-based keyword classifier based on the Model Penal Code. Lead author.
 
 - [Honesty vs. probe evasion](https://github.com/Yilin1010/honesty-vs-obfuscation-probe-rl): I trained Llama-3.3-70B with GRPO against a white-box deception probe. I used probe-free and ground-truth checks to test whether the model becomes more honest or just learns to evade the probe.
